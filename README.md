@@ -1,6 +1,12 @@
 ## Laravel Foundation Testing Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Testing/](https://github.com/laravel/framework/tree/v5.7.5/src/Illuminate/Foundation/Testing/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Testing/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Testing/)
+
+### Installation
+
+```bash
+composer require laravel-foundation/testing
+```
 
 
 ### Issues
